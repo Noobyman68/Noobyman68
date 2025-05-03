@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🎓 I'm currently studying Software Engineering at Kennesaw State University
+## 🎓 I'm currently studying Computer Science at Kennesaw State University
 ## 🌱 I’m currently learning web development
 <!--
 **Noobyman68/Noobyman68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
